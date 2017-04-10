@@ -1,5 +1,8 @@
 '''
 Lexicon Creation
+
+Aashik Nagadikeri Harish
+aashikgowda@ufl.edu
 '''
 import nltk
 import os
