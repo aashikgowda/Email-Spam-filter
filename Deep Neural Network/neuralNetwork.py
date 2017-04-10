@@ -2,7 +2,11 @@
 Deep Net for Email spam filter
 Referene - https://pythonprogramming.net/
 Ling Spam dataset
+
+Aashik Nagadikeri Harish
+aashikgowda@ufl.edu
 '''
+
 import tensorflow as tf
 import pickle
 import numpy as np
